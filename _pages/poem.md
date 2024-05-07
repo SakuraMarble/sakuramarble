@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /poem/
 title: "诗"
 ---
 
